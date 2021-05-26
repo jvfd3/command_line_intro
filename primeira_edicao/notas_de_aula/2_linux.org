@@ -49,7 +49,7 @@
    [[../imagens/root_ls.png]]
 
    - Diretório raiz (como se fosse o ~C:\~ do Windows)
-   - Os nomes dos diretórios geralmente são abreviações em ingês
+   - Os nomes dos diretórios geralmente são abreviações em inglês
    - Segue o padão FHS (Filesystem Hierarchy Standard), mantido pela Linux Foundation
    - Todos os outros diretórios e subpastas estão localizados aqui
    - Alguns diretórios são links simbólicos (atalhos)
